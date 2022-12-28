@@ -7,6 +7,12 @@ Siamo una **community** per chiunque sia appassionato, usi, o sia semplicemente 
 
 Organizziamo meetup in cui fare **networking** e **scambiare domande, conoscenze ed esperienze**.
 
+## Unisciti a noi su Meetup!
+
+![](https://www.meetup.com/mu_static/en-US/logo--script.004ada05.svg)
+
+Adesso che siamo una community ufficialmente riconosciuta da Google come parte del **Flutter Meetup Network** potete unirvi a noi su Meetup cliccando [questo link](https://www.meetup.com/flutter-modena/)!
+
 ## Entra nel gruppo Telegram!
 
 [Entrando nel gruppo Telegram](https://t.me/fluttermodena) potrai contribuire le tue idee e conoscere il resto della community Flutter di Modena.
