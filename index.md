@@ -17,12 +17,13 @@ Adesso che siamo una community ufficialmente riconosciuta da Google come parte d
 
 [Entrando nel gruppo Telegram](https://t.me/fluttermodena) potrai contribuire le tue idee e conoscere il resto della community Flutter di Modena.
 
-# Meetup Inaugurale 17 Dicembre 2022
+# Prossimo Meetup il 28 Gennaio
 
-Il **17 Dicembre 2022** ci sarà il **primo meetup** di Flutter Modena, che sarà un incontro **introduttivo** a Flutter, concentrandoci particolarmente su ciò che distingue Flutter rispetto a strumenti simili e **perché si dovrebbe scegliere** di usare Flutter.
+Il **28 Gennaio 2023** ci sarà il **secondo meetup** di Flutter Modena, che sarà un incontro **introduttivo** a Flutter, concentrandoci particolarmente sulla prima applicazione proposta dal framework,
+cioè la **CounterApp**! Inoltre ci sarà una sessione dove tutti insieme commenteremo il **Flutter Forward**.
 
 Il meetup si svolgerà alla **Palestra Digitale MakeitModena** in Strada Barchetta 77.
 
-La partecipazione è completamente gratuita, ma [è necessario prenotarsi](https://www.eventbrite.it/e/biglietti-flutter-modena-476746450467).
+La partecipazione è completamente gratuita, ma [è necessario prenotarsi](https://www.meetup.com/flutter-modena/events/290997993/).
 
-[![](locandina171222.png)](https://www.eventbrite.it/e/biglietti-flutter-modena-476746450467)
+[![](locandina28012023.jpg)](https://www.meetup.com/flutter-modena/events/290997993/)
